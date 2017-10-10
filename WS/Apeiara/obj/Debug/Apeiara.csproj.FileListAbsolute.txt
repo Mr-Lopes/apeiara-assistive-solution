@@ -1,0 +1,9 @@
+c:\users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\Apeiara.dll
+c:\users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\Apeiara.pdb
+c:\users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\obj\Debug\Apeiara.dll
+c:\users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\obj\Debug\Apeiara.pdb
+C:\Users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\mysql.data.dll
+C:\Users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\mysql.data.entity.dll
+C:\Users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\mysql.visualstudio.dll
+C:\Users\kaiam\documents\visual studio 2010\Projects\Apeiara\Apeiara\bin\mysql.web.dll
