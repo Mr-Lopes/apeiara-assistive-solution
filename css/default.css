@@ -2,8 +2,11 @@
 {
     padding: 0;
     margin: 0;
+    border: 0;
 }
 body, html {
+    color: #373C40;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
     height: 100%;
     background-color: #f0f0f0;
     margin:10px;
